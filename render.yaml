@@ -1,6 +1,6 @@
 databases:
-  - name: postgres
-    databaseName: budget_app_Kayjeee
+  - name: budget_app_Kayjeee
+    databaseName: budgetappKayjeee
     user: kagis
 
 services:
