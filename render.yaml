@@ -1,11 +1,11 @@
 databases:
-  - name: budget_app_Kayjeee
+  - name: postgres
     databaseName: budget_app_Kayjeee
     user: kagis
 
 services:
   - type: web
-    name: budgetapp_0tun
+    name: rails
     runtime: ruby
     buildCommand: "./bin/render-build.sh"
     startCommand: "bundle exec puma -C config/puma.rb"
