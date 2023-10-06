@@ -1,6 +1,6 @@
 databases:
   - name: budget_app_Kayjeee
-    databaseName: budgetappKayjeee
+    databaseName: budgetapp_0tun
     user: kagis
 
 services:
