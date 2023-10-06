@@ -30,7 +30,7 @@ development:
   # When left blank, postgres will use the default role. This is
   # the same name as the operating system user running Rails.
   username: kagis
-  password: 1234
+  password: 12345678
 
   # The password associated with the postgres role (username).
   #password:
@@ -60,7 +60,7 @@ test:
   <<: *default
   database: budget_app_Kayjeee_test
   username: kagis
-  password: 1234
+  password: 12345678
   host: localhost
   port: 5432
 
