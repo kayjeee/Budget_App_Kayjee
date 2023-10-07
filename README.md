@@ -67,12 +67,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live Demo]n/a
+[Live Demo] (https://budget-6kb3.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Project Presentation <a name="Presentation"></a>
-[Presentation]n/a
+[Presentation] (https://www.loom.com/share/08f29f9850684fc8879275973c97a76e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/schoolspun)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kagiso/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>i my gro
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
@@ -157,7 +157,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/kayjeee/Budget__App_Kayjee/issues/](../../issues/).
+Feel free to check the [https://github.com/kayjeee/Budget_App_Kayjee/issues/3](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
