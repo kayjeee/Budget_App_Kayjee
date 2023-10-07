@@ -39,7 +39,7 @@ end
 # Development and Debugging
 group :development do
   gem 'bullet'
-  # gem 'rack-mini-profiler'
+  # gem 'rack-mini-profiler'1
   # gem 'spring'
   # gem 'sassc-rails'
 end
