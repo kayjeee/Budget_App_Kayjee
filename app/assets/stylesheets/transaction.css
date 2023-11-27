@@ -1,14 +1,14 @@
 body {
-  background-color: #e6ebeb;
+  background-color: #f3f2ef; /* Light gray background */
+  font-family: 'Arial', sans-serif; /* Use a common font for better compatibility */
 }
 
 .card {
-  border: 2px solid #ccc;
-  border-radius: 12px;
+  border: 1px solid #ddd; /* Slightly thinner border */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
   margin-bottom: 20px;
   width: 60%;
-  justify-content: center;
-  align-items: center;
   background-color: #fff;
   margin-top: 2rem;
   margin-left: 2rem;
@@ -16,34 +16,33 @@ body {
 }
 
 .btn-success {
-  background-color: red;
+  background-color: #0073b1; /* LinkedIn's primary color */
   color: #fff;
 }
 
 .card-header {
-  margin-left: 5px;
-  margin-top: 5px;
+  margin-left: 15px; /* Add more margin */
+  margin-top: 15px; /* Add more margin */
 }
 
 .card-body {
-  padding: 5px;
-  display: flex;
-  flex-wrap: wrap; /* Added to allow items to wrap to the next line on smaller screens */
+  padding: 15px; /* Add more padding */
 }
 
 .card-title {
-  font-size: 1.25rem;
-  margin-bottom: 10px;
-  color: black;
+  font-size: 1.5rem; /* Slightly larger font size */
+  margin-bottom: 15px; /* Add more margin */
+  color: #0073b1; /* LinkedIn's primary color */
 }
 
 .card-details {
-  margin-bottom: 10px;
-  flex: 1; /* Added to allow items to take up equal space */
+  margin-bottom: 15px;
+  flex: 1;
 }
 
 .card-details i {
-  margin-right: 10px;
+  margin-right: 15px; /* Add more margin */
+  color: #0073b1; /* LinkedIn's primary color */
 }
 
 .card-container {
@@ -55,71 +54,33 @@ body {
   float: right;
   display: flex;
   width: 100%;
-  gap: 1rem;
+  gap: 1.5rem; /* Adjust the gap */
 }
 
 .icon {
-  font-size: 100px; /* Adjust the size as needed. */
+  font-size: 80px; /* Adjust the size */
+  color: #0073b1; /* LinkedIn's primary color */
 }
 
 .button-links {
   display: flex;
-  gap: 28rem;
-  margin-bottom: 0.5rem;
+  gap: 2rem; /* Adjust the gap */
+  margin-bottom: 1rem; /* Adjust margin */
 }
 
 .nav-btn {
   display: flex;
   margin: 0;
   padding: 3px;
-}
-
-/* Media Query for smaller screens */
-@media (max-width: 768px) {
-  .card {
-    width: 100%;
-    margin-left: 0;
-  }
-
-  .transaction-details {
-    margin-left: 0; /* Removed margin for smaller screens */
-    display: flex;
-    gap: 2rem;
-    width: 100%;
-  }
-
-  .button-links {
-    display: flex;
-    gap: 3rem;
-    padding: 5px;
-  }
-
-  .button-links .btn {
-    padding: 5px;
-  }
-
-  .icon {
-    font-size: 70px; /* Adjust the size as needed. */
-  }
-
-  .nav-btn {
-    display: flex;
-    margin: 0;
-    padding: 3px;
-    gap: 3.5rem;
-    height: auto;
-  }
-
-  .card-details i {
-    margin-right: 0;
-  }
+  gap: 2rem; /* Adjust the gap */
+  height: auto;
 }
 
 .total-transactions {
-  background-color: #f0f0f0;
-  padding: 1rem;
+  background-color: #f9f9f9; /* Lighter background */
+  padding: 1.5rem; /* Add more padding */
 }
 
 .btn {
-  margin-right: 0.5rem;
+  margin-right: 1rem; /* Adjust margin */
 }
